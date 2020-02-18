@@ -5,6 +5,9 @@
 	margin-right: 30px;
 }
 
+body {
+background-image: url(https://i.pinimg.com/originals/bd/03/a4/bd03a424e3663196b1d93b9f41e19225.jpg);
+}
 
 
 .main {
@@ -15,10 +18,11 @@
 	padding: 30px;
 	
 	border-radius: 50px;
-	
+	background-color: #ccc2c2;
 	background-image: url(https://cdn1.savepice.ru/uploads/2020/2/18/1187908bc283dd069abc48af55f60778-full.jpg);
 		
 }
+
 .header-info {
 	
 }
